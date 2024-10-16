@@ -7,6 +7,7 @@
 ## How to use
 
 ```js
+
     var WAValidator = require('multicoin-address-validator2');
 
     var valid = WAValidator.validate('1KFzzGtDdnq5hrwxXGjwVnKzRbvf8WVxck', 'BTC');
