@@ -1,5 +1,5 @@
 ## Description
-    npm package for address conversion form various chains customized, Currently supported EVM chains, TRON, XINFIN, WELUPS Chains.
+    Simple wallet address validator for validating Bitcoin and other altcoins addresses in Node.js and browser.
     
 ## Installation
     `npm i multicoin-address-validator2 --save`
