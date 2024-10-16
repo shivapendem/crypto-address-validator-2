@@ -2,13 +2,13 @@
     Simple wallet address validator for validating Bitcoin and other altcoins addresses in Node.js and browser.
     
 ## Installation
-    `npm i multicoin-address-validator2 --save`
+    `npm i crypto-address-validator-2 --save`
 
 ## How to use
 
 ```js
 
-    var WAValidator = require('multicoin-address-validator2');
+    var WAValidator = require('crypto-address-validator-2');
 
     var valid = WAValidator.validate('1KFzzGtDdnq5hrwxXGjwVnKzRbvf8WVxck', 'BTC');
     if(valid)
