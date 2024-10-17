@@ -3,7 +3,7 @@ var WAValidator = require('multicoin-address-validator');
 function validate(_adddress, currencyid) {
       var currency = WAValidator.findCurrency(currencyid);
       if (currency)
-            return WAValidator.validate(_adddress, currency);
+            return WAValidator.validate(_adddress, currencyid);
       else {
             switch (currencyid.toString().toLowerCase().trim()) {
                   case 'near':

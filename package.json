@@ -1,7 +1,7 @@
 {
   "name": "crypto-address-validator-2",
-  "version": "0.0.3",
-  "description": "crypto address validator",
+  "version": "0.0.4",
+  "description": "Simple wallet address validator for validating Bitcoin and other altcoins addresses in Node.js and browser.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
