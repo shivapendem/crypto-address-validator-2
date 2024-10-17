@@ -1,6 +1,6 @@
 {
   "name": "crypto-address-validator-2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "crypto address validator",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shivapendem/crypto-address-validator.git"
+    "url": "git+https://github.com/shivapendem/crypto-address-validator-2.git"
   },
   "keywords": ["0x","zrx","Aave Coin","aave",
         "Algorand","algo","Apecoin","ape",
@@ -94,9 +94,9 @@
   "author": "shivapendem",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shivapendem/crypto-address-validator/issues"
+    "url": "https://github.com/shivapendem/crypto-address-validator-2/issues"
   },
-  "homepage": "https://github.com/shivapendem/crypto-address-validator#readme",
+  "homepage": "https://github.com/shivapendem/crypto-address-validator-2r#readme",
   "dependencies": {
     "multicoin-address-validator": "^0.5.21"
   }
