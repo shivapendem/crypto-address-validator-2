@@ -1,6 +1,6 @@
 {
   "name": "crypto-address-validator-2",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Simple wallet address validator for validating Bitcoin and other altcoins addresses in Node.js and browser.",
   "main": "index.js",
   "scripts": {
@@ -89,7 +89,7 @@
         "ZCash","zec","ZClassic","zcl",
         "ZenCash","zen",
         "shivapendem","Shiva pendem",
-        "Near","near"
+        "Near","near","diamante","Diam"
   ],
   "author": "shivapendem",
   "license": "ISC",
